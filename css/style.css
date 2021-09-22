@@ -1,0 +1,75 @@
+body{
+    background:url(../imgs/dark-floral-pattern-background-vector.jpg);
+    background-size:cover;
+    display:flex;
+    justify-content: center;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    color:#eee;
+    padding:20px;
+    border-radius:20px 20px  0px 0px;
+    border-bottom:1px solid rgba(238, 238, 238, 0.308);
+    width:95%;
+    margin:auto;
+}
+nav{
+    padding-top:13px;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right:50px;
+}
+nav ul li a{
+    color:#eee;
+    text-decoration:none;
+    font-size:20px;
+}
+
+
+.sesion1{
+
+background:url(../imgs/binara-weerasinghe-dikgfeEc2nE-unsplash.jpg);
+height:90vh;
+background-size:cover;
+width:90%;
+margin-top:50px;
+
+border-radius:20px;
+border:15px solid rgb(92, 91, 91);
+
+}
+.content1{
+    color:#eee;
+    width:18%;
+    margin-left:50px;
+}
+span{
+    font-size:40px;
+}
+#h2{
+    margin-top:100px;
+    position:absolute;
+    left:525px;
+    font-size:70px;
+}
+#a{
+    position:absolute;
+    text-decoration: none;
+    color:#eee;
+    background:rgba(53, 52, 52, 0.5);
+    padding:8px 30px;
+    right:100px;
+    bottom:70px;
+    border-right:5px solid #ff4500;
+}
+#a:active{
+    background:rgba(83, 81, 81, 0.5);
+
+
+}
